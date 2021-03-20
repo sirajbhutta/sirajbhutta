@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sirajbhutta
-- 👀 I’m interested in codeing 
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning React
 - 📫 Reach me at twitter.com/sirajofcl
 
